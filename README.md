@@ -2,7 +2,12 @@
 
 I am a highly motivated and passionate Software Engineer, driven by a curiosity for technology and a love for learning. I have worked and adapted with mulitiple technologies 
 
-![Ilvi Cumani's Stats](https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true" width="440px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="300px" />
+</p>
+
 
 
 ## Tech Stack
@@ -43,6 +48,12 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 <!--
 
 Here are some ideas to get you started:
+
+
+
+![Ilvi Cumani's Github Stats](https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4)
+
   ## 🔗 Connect with me in other social medias:
   
   <a href="https://discord.com/users/948288889653698571" >
