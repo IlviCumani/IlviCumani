@@ -24,6 +24,8 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 
 ## 📬 How to reach me:
 
+<div>
+
   <a href="https://www.linkedin.com/in/ilvio-cumani-669788239/" style="text-decorations:none; color:inherit;">
 	<img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
@@ -35,11 +37,10 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
   <a href="https://stackoverflow.com/users/24251157/ilvi-cumani" style="text-decorations:none; color:inherit;" >
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
+ 
+</div>
 
-
-  
-
-
+<br/>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
