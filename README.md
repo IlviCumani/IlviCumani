@@ -19,21 +19,22 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 
 ## 📬 How to reach me:
 
-  <a href="https://www.linkedin.com/in/ilvio-cumani-669788239/" >
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://www.linkedin.com/in/ilvio-cumani-669788239/" style="text-decorations:none; color:inherit;">
+	<img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 	
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilvicumani@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilvicumani@gmail.com" style="text-decorations:none; color:inherit;" >
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 
-  <a href="https://stackoverflow.com/users/24251157/ilvi-cumani" >
+  <a href="https://stackoverflow.com/users/24251157/ilvi-cumani" style="text-decorations:none; color:inherit;" >
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
 
-  <a href="https://discord.com/channels/@me" >
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
+
+  
+
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
@@ -42,13 +43,20 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 <!--
 
 Here are some ideas to get you started:
+  ## 🔗 Connect with me in other social medias:
+  
+  <a href="https://discord.com/users/948288889653698571" >
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
+
+ <a href='https://www.instagram.com/ilv_cumani/' >
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
