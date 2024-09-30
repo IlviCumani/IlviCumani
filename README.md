@@ -17,8 +17,7 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
   - Diving into MongoDb for efficient and scalable database management.
   - Developing a React Native app to expand my mobile development expertise
 
-## 📬 Get in Touch
-
+## 📬 How to reach me:
 
   <a href="https://www.linkedin.com/in/ilvio-cumani-669788239/" >
     <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -32,6 +31,9 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
 
+  <a href="https://discord.com/channels/@me" >
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
