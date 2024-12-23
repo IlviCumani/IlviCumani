@@ -20,7 +20,7 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 </p>
 
 
-## 🤖Favourite Repos
+## 🤖Interesting Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IlviCumani&repo=UITOST&theme=react)](https://github.com/IlviCumani/UITOST)
 
