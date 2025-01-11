@@ -12,7 +12,7 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,typescript,html,css,scss,tailwind,bootstrap,vite,npm,nodejs,express,pug,nextjs,nestjs,mongodb,postman,figma,java,python,opencv,firebase,mysql,postgres,c,cpp,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,typescript,html,css,scss,tailwind,bootstrap,vite,npm,nodejs,express,pug,nextjs,nestjs,mongodb,postman,figma,java,python,opencv,firebase,mysql,sequelize,postgres,c,cpp,unreal)](https://skillicons.dev)
 
 <p align='center'>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="41.5%"/>
