@@ -10,9 +10,12 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlviCumani&theme=react&hide_title=true" width='100%' />
 
+<div align='center'>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,typescript,html,css,scss,tailwind,bootstrap,vite,vitest,webpack,npm,nextjs,nestjs,mongodb,postman,figma,java,python,firebase,mysql,sequelize,postgres,c,cpp,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,typescript,html,css,scss,tailwind,bootstrap,vite,vitest,webpack,npm,nextjs,mongodb,java,python,firebase,mysql,postgres,c,cpp,unreal)](https://skillicons.dev)
+ 
+</div>
 
 <p align='center'>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="41.5%"/>
