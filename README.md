@@ -4,11 +4,12 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 
 
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true" width="57.5%"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlviCumani&theme=react&utcOffset=8&hide_border=true&count_private=true" width='41.5%' />
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true" width="57.5%"/> -->
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlviCumani&layout=donut&theme=react&hide_border=true" width='49%' />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlviCumani&theme=react&utcOffset=8&hide_border=true&count_private=true" width='49%' />
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlviCumani&theme=react&hide_title=true" width='100%' />
+
 
 <div align='center'>
 
@@ -18,8 +19,8 @@ I am a highly motivated and passionate Software Engineer, driven by a curiosity 
 </div>
 
 <p align='center'>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="41.5%"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlviCumani&layout=donut&theme=react&hide_border=true" width='43.5%' />
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="41.5%"/> -->
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlviCumani&theme=react&hide_title=true" width='100%' />
 </p>
 
 
