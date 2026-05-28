@@ -1,76 +1,113 @@
-# Hi, I'm Ilvio Cumani 👋
+<div align="center">
 
-I am a highly motivated and passionate Software Engineer, driven by a curiosity for technology and a love for learning. I have worked and adapted with mulitiple technologies 
+# ⚡ Ilvio Cumani ⚡
 
+### Frontend Engineer • React Specialist • UI Architect
 
-<p>
-	<!-- <img src="https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true" width="57.5%"/> -->
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlviCumani&layout=donut&theme=react&hide_border=true" width='49%' />
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlviCumani&theme=react&utcOffset=8&hide_border=true&count_private=true" width='49%' />
-</p>
-
-
-
-<div align='center'>
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,typescript,html,css,scss,tailwind,bootstrap,vite,vitest,webpack,npm,nextjs,mongodb,java,python,firebase,mysql,postgres,c,cpp,unreal)](https://skillicons.dev)
- 
-</div>
-
-<p align='center'>
-	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4" width="41.5%"/> -->
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlviCumani&theme=react&hide_title=true" width='100%' />
-</p>
-
-
-## 📬 How to reach me:
-
-<div>
-
-  <a href="https://www.linkedin.com/in/ilvio-cumani-669788239/" style="text-decorations:none; color:inherit;">
-	<img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-	
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilvicumani@gmail.com" style="text-decorations:none; color:inherit;" >
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-
-  <a href="https://stackoverflow.com/users/24251157/ilvi-cumani" style="text-decorations:none; color:inherit;" >
-    <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-  </a>
- 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Experiences;React+%2B+TypeScript+Specialist;Crafting+Scalable+Frontend+Systems;Designing+Clean+and+Polished+UI" />
 
 <br/>
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+<img src="https://komarev.com/ghpvc/?username=IlviCumani&style=for-the-badge&color=0e75b6" />
 
+</div>
 
+---
 
-<!--
+## 🧠 About Me
 
-Here are some ideas to get you started:
+Frontend Engineer focused on building modern, scalable, and visually polished web applications.
 
+I primarily work within the React ecosystem, creating responsive user interfaces, reusable component systems, and performant frontend architectures using modern technologies.
 
+I enjoy transforming ideas into clean and interactive experiences while continuously exploring new technologies, design systems, and development workflows.
 
-![Ilvi Cumani's Github Stats](https://github-readme-stats.vercel.app/api?username=IlviCumani&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlviCumani&layout=donut&theme=react&hide_border=true&exclude_repo=TrafficPrediction&langs_count=4)
+Outside of coding, I’m on the eternal journey to become a **Super Saiyan Hokage** ⚡🍥
 
-  ## 🔗 Connect with me in other social medias:
-  
-  <a href="https://discord.com/users/948288889653698571" >
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>
+---
 
- <a href='https://www.instagram.com/ilv_cumani/' >
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
+## ⚔️ Main Tech Arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,scss,html,css,vite,webpack,vitest,npm,supabase,firebase,postgres,mongodb,mysql,git,github,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- Building scalable frontend architectures
+- Creating reusable UI systems
+- Advanced React patterns
+- AI-powered web applications
+- Performance optimization
+- Modern developer experience workflows
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlviCumani&theme=react" width="100%" />
+</p>
+
+<p align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlviCumani&layout=donut&theme=react&hide_border=true" width="49%" />
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlviCumani&theme=react&utcOffset=2&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 🧩 Featured Skills
+
+```ts
+const ilvio = {
+	role: "Frontend Engineer",
+	specialization: "React Ecosystem Development",
+	languages: ["TypeScript", "JavaScript", "Python", "Java",],
+	frontend: ["React", "Next.js", "TailwindCSS", "Redux", "CSS"],
+	backend: ["Firebase", "Supabase", "PostgreSQL", "MongoDB"],
+	currentMission: "Building modern and scalable web experiences",
+	lifeGoal: "Become a Super Saiyan"
+}
+```
+
+---
+
+## 🌌 Philosophy
+
+```txt
+Clean UI.
+Scalable architecture.
+Continuous evolution.
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ilvio-cumani-669788239/">
+	<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ilvicumani@gmail.com">
+	<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://stackoverflow.com/users/24251157/ilvi-cumani">
+	<img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Train • Evolve ⚡
+
+</div>
