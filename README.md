@@ -22,8 +22,6 @@ I primarily work within the React ecosystem, creating responsive user interfaces
 
 I enjoy transforming ideas into clean and interactive experiences while continuously exploring new technologies, design systems, and development workflows.
 
-Outside of coding, I’m on the eternal journey to become a **Super Saiyan Hokage** ⚡🍥
-
 ---
 
 ## ⚔️ Main Tech Arsenal
