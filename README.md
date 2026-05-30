@@ -28,7 +28,7 @@ I enjoy transforming ideas into clean and interactive experiences while continuo
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,scss,html,css,vite,webpack,vitest,npm,supabase,firebase,postgres,mongodb,mysql,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,scss,html,css,vite,webpack,vitest,npm,supabase,firebase,postgres,mongodb,git,github)](https://skillicons.dev)
 
 </div>
 
